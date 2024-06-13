@@ -14,7 +14,7 @@ public class SumOfFactors {
     }
 
     public static void main(String[] args) {
-
+        System.out.println(sumFactors(12));
     }
 
 }
